@@ -1,5 +1,5 @@
 # 2024-bounds-finite-set-ID
-This repository contains the code from our paper "Sample Complexity Bounds for Linear System Identification from a Finite Set" which can be acessed here. 
+This repository contains the code from our paper "Sample Complexity Bounds for Linear System Identification from a Finite Set" which can be acessed [here](https://arxiv.org/abs/2409.11141). 
 
 ## Installation
 To install all relevant packages execute 
