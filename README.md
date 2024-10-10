@@ -2,6 +2,7 @@
 [![arXiv][arxiv-shield]][arxiv-url]
 [![MIT License][license-shield]][license-url]
 [![Webpage][webpage-shield]][webpage-url]
+[![ReseachGate][researchgate-shield]][researchgate-url]
 
 # Sample Complexity Bounds for Linear System Identification from a Finite Set 
 This repository contains the code from our paper "Sample Complexity Bounds for Linear System Identification from a Finite Set" which can be acessed [here](https://arxiv.org/abs/2409.11141). 
@@ -31,3 +32,5 @@ The experiment will then be run which might take some time. This will create a d
 [webpage-url]: https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/
 [arxiv-shield]: https://img.shields.io/badge/arXiv-2409.11141-t?style=flat&logo=arxiv&logoColor=white&color=red
 [arxiv-url]: https://arxiv.org/abs/2409.11141
+[researchgate-shield]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
+[researchgate-url]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
