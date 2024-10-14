@@ -29,7 +29,7 @@ The experiment will then be run which might take some time. This will create a d
 [license-shield]: https://img.shields.io/badge/License-MIT-T?style=flat&color=blue
 [license-url]: https://github.com/col-tasas/2024-bounds-finite-set-ID/blob/main/LICENSE
 [webpage-shield]: https://img.shields.io/badge/Webpage-Nicolas%20Chatzikiriakos-T?style=flat&logo=codementor&color=green
-[webpage-url]: https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/
+[webpage-url]: https://nchatzikiriakos.github.io
 [arxiv-shield]: https://img.shields.io/badge/arXiv-2409.11141-t?style=flat&logo=arxiv&logoColor=white&color=red
 [arxiv-url]: https://arxiv.org/abs/2409.11141
 [researchgate-shield]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
