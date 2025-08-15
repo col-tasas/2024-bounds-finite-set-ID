@@ -6,7 +6,7 @@
 [![ReseachGate][researchgate-shield]][researchgate-url]
 
 # Sample Complexity Bounds for Linear System Identification from a Finite Set 
-This repository contains the code from our paper "Sample Complexity Bounds for Linear System Identification from a Finite Set" which can be acessed [here](https://ieeexplore.ieee.org/abstract/document/10787218) (Preprint available [here](https://arxiv.org/abs/2409.18010)). 
+This repository contains the code from our paper "Sample Complexity Bounds for Linear System Identification from a Finite Set" which can be acessed [here](https://ieeexplore.ieee.org/abstract/document/10787218) (Preprint available [here](https://arxiv.org/abs/2409.11141)). 
 
 If you use this project for academic work, please consider citing our publication 
 
